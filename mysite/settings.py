@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'link_shorter.urls'
+ROOT_URLCONF = 'mysite.urls'
 
 TEMPLATES = [
     {
